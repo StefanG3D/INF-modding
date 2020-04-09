@@ -1025,6 +1025,7 @@ vulkaninfo-x86.exe = 1
 ExcludeFromSelect = *
 
 [R445]
+CopyINF=nvhda.inf
 AddReg = nv_DRS_addreg
 AddReg = nv_commonBase_addreg__01
 AddReg = nv_commonDisplayModes_addreg

@@ -1,4 +1,4 @@
-; FreaknGeek & StefanG3D INF for R445 version 8.169
+; FreaknGeek & StefanG3D INF for R445 version 8.170
 ; http://www.laptopvideo2go.com
 
 ; NVIDIA Windows 10 (64 bit) Display INF file
@@ -9,16 +9,16 @@ Signature   = "$Windows NT$"
 Provider    = %NVIDIA%
 ClassGUID   = {4D36E968-E325-11CE-BFC1-08002BE10318}
 Class       = Display
-DriverVer   = 04/03/2020, 26.21.14.4587
+DriverVer   = 05/15/2020, 26.21.14.4614
 CatalogFile = NV_DISP.CAT
 
 [nv_coinstaller_copyfiles]
-nvdispco6444587.dll,nvdispco64.dll,,0x00004000
-nvdispgenco6444587.dll,nvdispgenco64.dll,,0x00004000
+nvdispco6444614.dll,nvdispco64.dll,,0x00004000
+nvdispgenco6444614.dll,nvdispgenco64.dll,,0x00004000
 
 [nv_commonCoinstaller_addreg]
-HKR,,CoInstallers32,%REG_MULTI_SZ%,"nvdispgenco6444587.dll,NvGenericCoInstall"
-HKR,,CoInstallers32,%REG_SZ_APPEND%,"nvdispco6444587.dll,NVDisplayCoInstall"
+HKR,,CoInstallers32,%REG_MULTI_SZ%,"nvdispgenco6444614.dll,NvGenericCoInstall"
+HKR,,CoInstallers32,%REG_SZ_APPEND%,"nvdispco6444614.dll,NVDisplayCoInstall"
 ; HKLM,"SYSTEM\CurrentControlSet\Control\GraphicsDrivers",TdrDelay,%REG_DWORD%,5
 ; HKCU,"Software\Microsoft\DirectX\UserGpuPreferences",VRROptimizeEnable,%REG_SZ%,1
 
@@ -26,7 +26,7 @@ HKR,,CoInstallers32,%REG_SZ_APPEND%,"nvdispco6444587.dll,NVDisplayCoInstall"
 ;PCI-ID's by www.laptopvideo2go.com
 
 [NVIDIA_Devices.NTamd64.10.0]
-; 0f00 -0f03 legacy
+; 0f00 - 0f9f legacy
 %NVIDIA_DEV.0FA0% = R445,PCI\VEN_10DE&DEV_0FA0
 %NVIDIA_DEV.0FA5% = R445,PCI\VEN_10DE&DEV_0FA5
 %NVIDIA_DEV.0FA7% = R445,PCI\VEN_10DE&DEV_0FA7
@@ -650,12 +650,15 @@ HKR,,CoInstallers32,%REG_SZ_APPEND%,"nvdispco6444587.dll,NVDisplayCoInstall"
 %NVIDIA_DEV.1EC2% = R445,PCI\VEN_10DE&DEV_1EC2
 %NVIDIA_DEV.1EC7% = R445,PCI\VEN_10DE&DEV_1EC7
 %NVIDIA_DEV.1ED0% = R445,PCI\VEN_10DE&DEV_1ED0
+%NVIDIA_DEV.1ED1% = R445,PCI\VEN_10DE&DEV_1ED1
+%NVIDIA_DEV.1ED3% = R445,PCI\VEN_10DE&DEV_1ED3
 %NVIDIA_DEV.1F02% = R445,PCI\VEN_10DE&DEV_1F02
 %NVIDIA_DEV.1F04% = R445,PCI\VEN_10DE&DEV_1F04
 %NVIDIA_DEV.1F06% = R445,PCI\VEN_10DE&DEV_1F06
 %NVIDIA_DEV.1F07% = R445,PCI\VEN_10DE&DEV_1F07
 %NVIDIA_DEV.1F08% = R445,PCI\VEN_10DE&DEV_1F08
 %NVIDIA_DEV.1F09% = R445,PCI\VEN_10DE&DEV_1F09
+%NVIDIA_DEV.1F0A% = R445,PCI\VEN_10DE&DEV_1F0A
 %NVIDIA_DEV.1F10% = R445,PCI\VEN_10DE&DEV_1F10
 %NVIDIA_DEV.1F11% = R445,PCI\VEN_10DE&DEV_1F11
 %NVIDIA_DEV.1F12% = R445,PCI\VEN_10DE&DEV_1F12
@@ -689,6 +692,7 @@ HKR,,CoInstallers32,%REG_SZ_APPEND%,"nvdispco6444587.dll,NVDisplayCoInstall"
 %NVIDIA_DEV.2183% = R445,PCI\VEN_10DE&DEV_2183
 %NVIDIA_DEV.2184% = R445,PCI\VEN_10DE&DEV_2184
 %NVIDIA_DEV.2187% = R445,PCI\VEN_10DE&DEV_2187
+%NVIDIA_DEV.2188% = R445,PCI\VEN_10DE&DEV_2188
 %NVIDIA_DEV.2191% = R445,PCI\VEN_10DE&DEV_2191
 %NVIDIA_DEV.2192% = R445,PCI\VEN_10DE&DEV_2192
 %NVIDIA_DEV.21C4% = R445,PCI\VEN_10DE&DEV_21C4
@@ -827,6 +831,8 @@ nv_containerSetup_copyfiles = 01
 nv_cplSetup_copyfiles = 01
 nv_driverstore_copyfiles = 13
 nv_license_copyfiles = 16422,NVIDIA Corporation
+nv_ngx_copyfiles = 13
+nv_ngx_copyfiles__02 = 13
 nv_nvsmi_copyfiles = 16422,NVIDIA Corporation\NVSMI
 nv_nvsmi_delfiles = 16422,NVIDIA Corporation\NVSMI
 nv_openCL_copyfiles = 13
@@ -907,6 +913,8 @@ nvldumd.dll = 1
 nvldumdx.dll = 1
 nvmcumd.dll = 1
 nvml.dll = 1
+nvngx.dll = 1
+nvngx_update.exe = 1
 nvofapi.dll = 1
 nvofapi64.dll = 1
 nvoglshim32.dll = 1
@@ -950,6 +958,8 @@ CopyFiles = nv_containerSetup_copyfiles
 CopyFiles = nv_cplSetup_copyfiles
 CopyFiles = nv_driverstore_copyfiles
 CopyFiles = nv_license_copyfiles
+CopyFiles = nv_ngx_copyfiles
+CopyFiles = nv_ngx_copyfiles__02
 CopyFiles = nv_nvsmi_copyfiles
 CopyFiles = nv_sysDrivers_copyfiles__01
 CopyFiles = nv_system32_copyfiles__01
@@ -1783,6 +1793,16 @@ HKR,"Interrupt Management\MessageSignaledInterruptProperties",,0x00000010
 HKR,"Interrupt Management\MessageSignaledInterruptProperties",MSISupported,0x00010001, 1
 HKR,"Interrupt Management\MessageSignaledInterruptProperties",MessageNumberLimit,0x00010001, 1
 
+[nv_ngx_copyfiles]
+
+[nv_ngx_copyfiles__02]
+cudnn_infer64_7.dll,,,
+nvngx.dll,,,
+nvngx_update.exe,,,
+
+[nv_ngx_service_addreg]
+HKR,"NGXCore",NGXPath,%REG_SZ%,%13%
+
 [nv_nvlddmkm_RS_eventlogging]
 AddReg = nv_nvlddmkm_eventlogging_RS_addreg
 
@@ -1797,6 +1817,7 @@ AddReg = nv_nvlddmkm_eventlogging_addreg
 AddReg = nv_FTS_addreg__01
 AddReg = nv_controlPanel_addreg
 AddReg = nv_miscBase_service_addreg
+AddReg = nv_ngx_service_addreg
 DelReg = nv_miscBase_service_delreg
 ErrorControl = 0
 LoadOrderGroup = Video
@@ -2723,12 +2744,15 @@ NVIDIA_DEV.1EBE = "NVIDIA TU104GL"
 NVIDIA_DEV.1EC2 = "NVIDIA GeForce RTX 2070 SUPER"
 NVIDIA_DEV.1EC7 = "NVIDIA GeForce RTX 2070 SUPER"
 NVIDIA_DEV.1ED0 = "NVIDIA GeForce RTX 2080"
+NVIDIA_DEV.1ED1 = "NVIDIA GeForce RTX 2070 Super"
+NVIDIA_DEV.1ED3 = "NVIDIA GeForce RTX 2080 Super"
 NVIDIA_DEV.1F02 = "NVIDIA GeForce RTX 2070"
 NVIDIA_DEV.1F04 = "NVIDIA Graphics Device"
 NVIDIA_DEV.1F06 = "NVIDIA GeForce RTX 2060 SUPER"
 NVIDIA_DEV.1F07 = "NVIDIA GeForce RTX 2070"
 NVIDIA_DEV.1F08 = "NVIDIA GeForce RTX 2060"
 NVIDIA_DEV.1F09 = "NVIDIA GeForce GTX 1660 SUPER"
+NVIDIA_DEV.1F0A = "NVIDIA GeForce GTX 1650"
 NVIDIA_DEV.1F10 = "NVIDIA GeForce RTX 2070"
 NVIDIA_DEV.1F11 = "NVIDIA GeForce RTX 2060"
 NVIDIA_DEV.1F12 = "NVIDIA GeForce RTX 2060"
@@ -2762,6 +2786,7 @@ NVIDIA_DEV.2182 = "NVIDIA GeForce GTX 1660 Ti"
 NVIDIA_DEV.2183 = "NVIDIA TU116"
 NVIDIA_DEV.2184 = "NVIDIA GeForce GTX 1660"
 NVIDIA_DEV.2187 = "NVIDIA GeForce GTX 1650 SUPER"
+NVIDIA_DEV.2188 = "NVIDIA GeForce GTX 1650"
 NVIDIA_DEV.2191 = "NVIDIA GeForce GTX 1660 Ti"
 NVIDIA_DEV.2192 = "NVIDIA GeForce GTX 1650 Ti"
 NVIDIA_DEV.21AE = "NVIDIA TU116GL"

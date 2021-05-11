@@ -412,7 +412,7 @@ NVIDIA_DEV.17F1 = "NVIDIA Quadro M6000 24GB"
 NVIDIA_DEV.17FD = "NVIDIA Tesla M40/M40 24GB"
 NVIDIA_DEV.17FE = "NVIDIA Graphics Device"
 NVIDIA_DEV.17FF = "NVIDIA Graphics Device                                     "
-; unknown
+; unknown, via 384.74 Test driver
 NVIDIA_DEV.1800 = "NVIDIA Graphics Device"
 NVIDIA_DEV.1801 = "NVIDIA Graphics Device"
 NVIDIA_DEV.1802 = "NVIDIA Graphics Device"

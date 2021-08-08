@@ -10,8 +10,7 @@
 470.42.01 r470_96-140
 470.25    bugfix_main-16945
 470.14    bugfix_main-16911
-470.05    bugfix_main-16870
-</pre>
+470.05    bugfix_main-16870</pre>
 
 <pre>
 466.84 r465_00-249

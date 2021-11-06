@@ -7,6 +7,7 @@ Branch progression:
 
 Branch progression:
 <pre>
+496.61    r496_39-5
 496.49    r496_39-4
 496.13    r495_86-10
 496.04    ?
@@ -14,9 +15,8 @@ Branch progression:
 495.29.05 r495_86-110
 </pre>
 
-<pre>
 Branch progression:
-
+<pre>
 472.55    VK470_92-21
 472.50    r472_39-2
 472.39    r470_00-321

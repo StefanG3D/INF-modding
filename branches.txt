@@ -1,14 +1,16 @@
 Branch progression:
 <pre>
+515.66 r515_00-53
 515.36 bugfix_main-17463
 </pre>
 
 Branch progression:
 <pre>
+512.15    r512_08-249
 511.79    r511_75-3
 511.72    r511_37-14
 511.69    r510_00-195
-511.66    nvidia.custhelp.com/app/answers/detail/a_id/5312
+511.66    r510_00-190
 511.65    r511_37-13
 511.37    r510_00-164
 511.33    r511_04-15
@@ -19,6 +21,7 @@ Branch progression:
 511.15    r510_00-144
 511.14    RTX 3080 Ti Laptop press driver
 511.09    r511_04-3
+510.60.02 r512_08-3
 510.54.00 r510_00-267
 510.50    nvidianews.nvidia.com/_gallery/download_pdf/61d47885ed6ae52f9ca63fda
 510.47.03 r511_37-228
@@ -74,6 +77,7 @@ Branch progression:
 472.76    r470_00-370
 472.75    r472_47-3 
 472.69    VK470_92-25
+472.62    r470_00-351
 472.56    r470_00-346
 472.55    VK470_92-21
 472.50    r472_39-2

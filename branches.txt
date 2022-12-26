@@ -5,23 +5,32 @@ Branch progression:
 
 Branch progression:
 <pre>
+527.86    VK526_25-7
+527.56    r527_32-11
+527.41    r526_91-10
 527.37    r527_32-4
 527.27    r526_91-9
 526.99    RTX 4050 Laptop GPU 
 526.98    r526_91-3
+526.91    Omniverse unsupported
 526.86    r526_25-17
 526.72    RTX 4080 press driver
 526.67    r526_53-3
 526.61    r526_25-7
 526.59    test driver
-526.56    security update 
+526.56    r525_00-181
 526.52    r525_00-178
 526.47    r526_25-3
 526.21    test driver
 525.87    test driver
-525.60.12 ?
+525.60.13 r526_91-183
+525.60.12 r526_91-182
 525.60.11 r526_91-181
+525.60.04 docs.nvidia.com/deploy/cuda-compatibility
+525.56.04 docs.nvidia.com/cuda/wsl-user-guide
 525.53.00 r525_00-154
+525.49.00 docs.nvidia.com/deploy/cuda-compatibility
+525.47.04 VK526_25-147
 525.26    bugfix_main-17735
 525.14    bugfix_main-17649
 </pre>
@@ -46,12 +55,14 @@ Branch progression:
 
 Branch progression:
 <pre>
+517.88    r517_71-2
 517.83    VK516_10-26
+517.78    r515_00-392
 517.72    r517_71-1
 517.71    r515_00-377
 517.70    ?
 517.69    VK516_10-25
-517.66    security update
+517.66    r515_00-370
 517.63    r515_00-359
 517.57    VK516_10-22
 517.55    VK516_10-21
@@ -114,6 +125,7 @@ Branch progression:
 
 Branch progression:
 <pre>
+514.08    r513_88-4
 513.91    r513_88-3
 513.90    ?
 513.74    r510_00-511
@@ -195,6 +207,8 @@ Branch progression:
 
 Branch progression:
 <pre>
+474.14    r473_99-4
+474.11    r470_00-729
 474.06    r470_00-704
 474.04    r473_99-3
 473.91    r473_76-6

@@ -6,11 +6,14 @@ Branch progression:
 
 Branch progression:
 <pre>
+528.02    r527_92-2
 527.97    test driver
 527.86    VK526_25-7
 527.77    test driver
-527.62    Dec 7th, 2022
+527.62    RTX 4070 Ti press driver
 527.56    r527_32-11
+527.54    r525_00-260
+527.47    r525_00-256
 527.41    r526_91-10
 527.37    r527_32-4
 527.27    r526_91-9
@@ -27,6 +30,7 @@ Branch progression:
 526.47    r526_25-3
 526.21    test driver
 525.87    test driver
+525.78.01 r527_92-225
 525.60.13 r526_91-183
 525.60.12 r526_91-182
 525.60.11 r526_91-181

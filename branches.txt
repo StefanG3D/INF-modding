@@ -7,15 +7,20 @@ Branch progression:
 
 Branch progression:
 <pre>
+528.24    r528_10-7
+528.22    r528_10-6
+528.21    NGX test driver
 528.02    r527_92-2
 528.01    r525_00-306
 527.97    VK test driver
+527.94    r525_00-300
 527.86    VK526_25-7
 527.77    VK test driver
 527.63    GFN RTX 4080 cloud gaming driver
 527.62    RTX 4070 Ti press driver
 527.56    r527_32-11
 527.54    r525_00-260
+527.48    HP Workstations - pending
 527.47    r525_00-256
 527.41    r526_91-10
 527.37    r527_32-4
@@ -27,12 +32,13 @@ Branch progression:
 526.72    RTX 4080 press driver
 526.67    r526_53-3
 526.61    r526_25-7
-526.59    test driver
+526.59    GFX test driver
 526.56    r525_00-181
 526.52    r525_00-178
 526.47    r526_25-3
-526.21    test driver
-525.87    test driver
+526.21    GFX test driver
+525.87    GFX test driver
+525.85.05 r528_10-249
 525.78.01 r527_92-225
 525.60.13 r526_91-183
 525.60.12 r526_91-182

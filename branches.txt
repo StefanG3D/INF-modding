@@ -5,8 +5,12 @@ Branch progression:
 530.04    bugfix_main-17853
 </pre>
 
+
+<hr>
 Branch progression:
 <pre>
+528.34    VK526_25-11
+528.32    VK526_25-10
 528.24    r528_10-7
 528.22    r528_10-6
 528.21    NGX test driver
@@ -38,6 +42,7 @@ Branch progression:
 526.47    r526_25-3
 526.21    GFX test driver
 525.87    GFX test driver
+525.85.07 host driver
 525.85.05 r528_10-249
 525.78.01 r527_92-225
 525.60.13 r526_91-183
@@ -47,6 +52,7 @@ Branch progression:
 525.56.04 docs.nvidia.com/cuda/wsl-user-guide
 525.53.00 r525_00-154
 525.49.00 docs.nvidia.com/deploy/cuda-compatibility
+525.47.06 VK526_25-151
 525.47.04 VK526_25-147
 525.26    bugfix_main-17735
 525.14    bugfix_main-17649
@@ -59,6 +65,7 @@ Branch progression:
 522.30    r521_90-18
 522.29    r520_00-341
 522.25    r521_90-15
+522.23    NGX test driver
 522.06    r521_82-4 
 521.98    Nsight 2022.3.0
 521.90    press driver

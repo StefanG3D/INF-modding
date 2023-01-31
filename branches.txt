@@ -9,6 +9,7 @@ Branch progression:
 Branch progression:
 <pre>
 530.66    PugetBench'ed 
+530.20    CUDA 12.1 test driver
 530.06    CUDA 12.1 test driver
 530.04    bugfix_main-17853
 </pre>
@@ -17,16 +18,21 @@ Branch progression:
 <hr>
 Branch progression:
 <pre>
+528.38    r528_10-11
 528.34    VK526_25-11
+528.33    r528_10-10
 528.32    VK526_25-10
 528.24    r528_10-7
 528.22    r528_10-6
-528.21    NGX test driver
+528.21    r528_10-5
 528.02    r527_92-2
 528.01    r525_00-306
 527.97    VK test driver
 527.94    r525_00-300
 527.86    VK526_25-7
+527.84    VK test driver
+527.83    r525_00-287
+527.79    Lenovo 
 527.77    VK test driver
 527.63    GFN RTX 4080 cloud gaming driver
 527.62    RTX 4070 Ti press driver
@@ -50,6 +56,7 @@ Branch progression:
 526.47    r526_25-3
 526.21    GFX test driver
 525.87    GFX test driver
+525.85.12 r528_10-257
 525.85.07 host driver
 525.85.05 r528_10-249
 525.78.01 r527_92-225
@@ -59,6 +66,8 @@ Branch progression:
 525.60.04 docs.nvidia.com/deploy/cuda-compatibility
 525.56.04 docs.nvidia.com/cuda/wsl-user-guide
 525.53.00 r525_00-154
+525.52    ? 
+525.50.13 ?
 525.49.00 docs.nvidia.com/deploy/cuda-compatibility
 525.47.06 VK526_25-151
 525.47.04 VK526_25-147

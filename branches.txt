@@ -18,13 +18,17 @@ Branch progression:
 <hr>
 Branch progression:
 <pre>
+528.50    VK526_25-12
 528.38    r528_10-11
+528.37    press driver
+528.36    press driver
 528.34    VK526_25-11
 528.33    r528_10-10
 528.32    VK526_25-10
 528.24    r528_10-7
 528.22    r528_10-6
 528.21    r528_10-5
+528.18    r525_00-331
 528.02    r527_92-2
 528.01    r525_00-306
 527.97    VK test driver
@@ -38,11 +42,13 @@ Branch progression:
 527.62    RTX 4070 Ti press driver
 527.56    r527_32-11
 527.54    r525_00-260
-527.48    HP Workstations - pending
+527.48    r526_91-12
 527.47    r525_00-256
 527.41    r526_91-10
 527.37    r527_32-4
 527.27    r526_91-9
+527.22    r525_00-233
+527.19    ?
 526.99    RTX 4050 Laptop GPU 
 526.98    r526_91-3
 526.91    Omniverse unsupported
@@ -57,7 +63,8 @@ Branch progression:
 526.21    GFX test driver
 525.87    GFX test driver
 525.85.12 r528_10-257
-525.85.07 host driver
+525.85.11 docs.nvidia.com/cuda/wsl-user-guide
+525.85.07 r528_10-251
 525.85.05 r528_10-249
 525.78.01 r527_92-225
 525.60.13 r526_91-183
@@ -69,6 +76,7 @@ Branch progression:
 525.52    ? 
 525.50.13 ?
 525.49.00 docs.nvidia.com/deploy/cuda-compatibility
+525.47.07 VK526_25-152
 525.47.06 VK526_25-151
 525.47.04 VK526_25-147
 525.26    bugfix_main-17735
@@ -108,6 +116,7 @@ Branch progression:
 517.68    ?
 517.66    r515_00-370
 517.63    r515_00-359
+517.60    r515_00-351
 517.57    VK516_10-22
 517.55    VK516_10-21
 517.51    r515_00-339

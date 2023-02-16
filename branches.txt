@@ -1,6 +1,7 @@
 <hr>
 Branch progression:
 <pre>
+535.05    PugetBench'ed
 535.03    PugetBench'ed
 </pre>
 
@@ -9,6 +10,7 @@ Branch progression:
 Branch progression:
 <pre>
 530.66    PugetBench'ed 
+530.24    CUDA 12.1.55 test driver
 530.20    CUDA 12.1 test driver
 530.06    CUDA 12.1 test driver
 530.04    bugfix_main-17853
@@ -18,7 +20,11 @@ Branch progression:
 <hr>
 Branch progression:
 <pre>
+528.52    Dell
 528.50    VK526_25-12
+528.49    r528_37-5
+528.47    r525_00-361
+528.46    r528_37-4
 528.38    r528_10-11
 528.37    press driver
 528.36    press driver
@@ -29,8 +35,10 @@ Branch progression:
 528.22    r528_10-6
 528.21    r528_10-5
 528.18    r525_00-331
+528.07    Razer
 528.02    r527_92-2
 528.01    r525_00-306
+527.99    r525_00-305 
 527.97    VK test driver
 527.94    r525_00-300
 527.86    VK526_25-7
@@ -40,11 +48,14 @@ Branch progression:
 527.77    VK test driver
 527.63    GFN RTX 4080 cloud gaming driver
 527.62    RTX 4070 Ti press driver
+527.59    GFX test driver
+527.58    Razer 
 527.56    r527_32-11
 527.54    r525_00-260
 527.48    r526_91-12
 527.47    r525_00-256
 527.41    r526_91-10
+527.40    r525_00-248
 527.37    r527_32-4
 527.27    r526_91-9
 527.22    r525_00-233
@@ -61,21 +72,22 @@ Branch progression:
 526.52    r525_00-178
 526.47    r526_25-3
 526.21    GFX test driver
+525.89.02 r528_37-265
 525.87    GFX test driver
 525.85.12 r528_10-257
-525.85.11 docs.nvidia.com/cuda/wsl-user-guide
+525.85.11 /cuda/wsl-user-guide
 525.85.07 r528_10-251
 525.85.05 r528_10-249
 525.78.01 r527_92-225
 525.60.13 r526_91-183
 525.60.12 r526_91-182
 525.60.11 r526_91-181
-525.60.04 docs.nvidia.com/deploy/cuda-compatibility
-525.56.04 docs.nvidia.com/cuda/wsl-user-guide
+525.60.04 /deploy/cuda-compatibility
+525.56.04 /cuda/wsl-user-guide
 525.53.00 r525_00-154
 525.52    ? 
 525.50.13 ?
-525.49.00 docs.nvidia.com/deploy/cuda-compatibility
+525.49.00 /deploy/cuda-compatibility
 525.47.07 VK526_25-152
 525.47.06 VK526_25-151
 525.47.04 VK526_25-147
@@ -106,6 +118,7 @@ Branch progression:
 <hr>
 Branch progression:
 <pre>
+517.89    r515_00-428
 517.88    r517_71-2
 517.83    VK516_10-26
 517.78    r515_00-392

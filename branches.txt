@@ -20,7 +20,7 @@ Branch progression:
 <hr>
 Branch progression:
 <pre>
-528.52    Dell
+528.52    05FEB23
 528.50    VK526_25-12
 528.49    r528_37-5
 528.47    r525_00-361
@@ -32,6 +32,7 @@ Branch progression:
 528.34    VK526_25-11
 528.33    r528_10-10
 528.32    VK526_25-10
+528.25    Clevo
 528.24    r528_10-7
 528.22    r528_10-6
 528.21    r528_10-5
@@ -51,7 +52,7 @@ Branch progression:
 527.63    GFN RTX 4080 cloud gaming driver
 527.62    RTX 4070 Ti press driver
 527.59    GFX test driver
-527.58    Razer 
+527.58    r525_00-262 
 527.56    r527_32-11
 527.54    r525_00-260
 527.48    r526_91-12

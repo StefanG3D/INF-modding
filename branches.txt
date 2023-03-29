@@ -1,15 +1,29 @@
 <hr>
 Branch progression:
 <pre>
+535.38    GFXBench'ed
+535.33    PugetBench'ed
 535.05    PugetBench'ed
 535.03    PugetBench'ed
 </pre>
 
 
 <hr>
-Branch progression:
+Branchitis progression:
 <pre>
+531.46    VK526_25-22
+531.44    VK526_25-21
+531.41    r531_37-2
+531.40    r531_37-1
+531.32    VK526_25-20
+531.29    r530_99-18
+531.26    r530_99-17
+531.18    r530_99-13
+531.14    r530_99-12
+531.08    r530_99-8
 530.66    PugetBench'ed 
+530.41.03 r531_37-121
+530.30.02 r530_99-89
 530.24.00 CUDA 12.1.55 test driver
 530.20.00 CUDA 12.1 test driver
 530.06.00 CUDA 12.1 test driver
@@ -20,12 +34,14 @@ Branch progression:
 <hr>
 Branch progression:
 <pre>
+528.75    VK526_25-18  
 528.66    r525_00-386
 528.52    05-FEB-23 Windows Update
 528.50    VK526_25-12
 528.49    r528_37-5
 528.47    r525_00-361
 528.46    r528_37-4
+528.42    ?
 528.40    r525_00-355
 528.38    r528_10-11
 528.37    press driver
@@ -40,8 +56,10 @@ Branch progression:
 528.21    r528_10-5
 528.20    r525_00-332
 528.18    r525_00-331
+528.10    RTX 4000 SFF
 528.08    r525_00-320
 528.07    Razer
+528.04    ?
 528.02    r527_92-2
 528.01    r525_00-306
 527.99    r525_00-305 

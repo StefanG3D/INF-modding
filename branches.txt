@@ -1,6 +1,7 @@
 <hr>
 Branch progression:
 <pre>
+545.29    bugfix_main-18353
 545.11    PugetBench'ed
 </pre>
 
@@ -8,6 +9,8 @@ Branch progression:
 <hr>
 Branch progression:
 <pre>
+536.23    r536_08-8
+536.19    r536_08-4 
 536.09    r535_87-7
 535.98    r535_87-6
 535.94    PugetBench'ed
@@ -15,6 +18,7 @@ Branch progression:
 535.85    Nsight Graphics 2023.2
 535.72    PugetBench'ed
 535.50    r535_00-73
+535.54.03 r536_08-145
 535.43.02 r535_87-122
 535.38    GFXBench'ed
 535.33    PugetBench'ed
@@ -26,6 +30,8 @@ Branch progression:
 <hr>
 Branch progression:
 <pre>
+532.17    VK526_25-34
+532.16    VK526_25-33
 532.04    VK526_25-32
 532.03    r531_79-4
 531.98    VK526_25-30
@@ -63,7 +69,7 @@ Branch progression:
 <hr>
 Branch progression:
 <pre>
-529.04    Lenovo
+529.04    Lenovo/Razer
 529.01    r525_00-459
 ?         r528_95-2
 528.96    r525_00-443

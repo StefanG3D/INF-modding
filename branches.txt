@@ -1,6 +1,10 @@
 
 <hr>
 Branch progression:
+551.23    r551_06-14
+551.20    NGX
+551.15    Press driver
+550.40.07 r551_06-132
 550.09    bugfix_main-18466
 <pre>
 
@@ -15,6 +19,7 @@ Branch progression:
 546.46    r545_00-175
 546.34    r545_00-158
 546.33    r545_00-157
+546.32    r545_00-154
 546.31    r546_21-5
 546.30    r545_00-152
 546.29    r546_21-4
@@ -58,6 +63,7 @@ Branch progression:
 Branch progression:
 <pre>
 540.02.00  buildbrain@mobile-u64-6517-d7000 (Jetson 6.2)
+538.31     VK535_87-24
 538.15     r538_10-3
 538.09     VK535_87-22
 538.03     VK535_87-21

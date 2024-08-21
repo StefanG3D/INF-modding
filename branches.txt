@@ -7,6 +7,7 @@ Branch progression:
 <hr>
 <pre>
 Branch progression:
+560.94    r560_88-4
 560.81    r560_78-2
 560.76    r560_70-3
 560.73    r560_70-2
@@ -14,6 +15,7 @@ Branch progression:
 560.63    PugetBench'ed
 560.38    bugfix_main-18863
 560.36    PugetBench'ed
+560.35.03 r560_88-137
 560.31.02 r560_78-120
 560.31.01 ?
 560.28.03 r560_70-107

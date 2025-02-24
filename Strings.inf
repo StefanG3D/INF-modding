@@ -971,6 +971,7 @@ NVIDIA_DEV.2D59 = "NVIDIA GeForce RTX 5060 Max-Q / Mobile"
 NVIDIA_DEV.2D98 = "NVIDIA GeForce RTX 5050 Max-Q / Mobile"
 NVIDIA_DEV.2DD8 = "NVIDIA GeForce RTX 5050 Max-Q / Mobile"
 ; Blackwell GB20x
+NVIDIA_DEV.2F04 = "NVIDIA GeForce RTX 5070"
 NVIDIA_DEV.2F18 = "NVIDIA GeForce RTX 5070 Ti Max-Q / Mobile"
 NVIDIA_DEV.2F58 = "NVIDIA GeForce RTX 5070 Ti Max-Q / Mobile"
 ; Blackwell GB110

@@ -961,6 +961,7 @@ NVIDIA_DEV.2B85 = "NVIDIA GeForce RTX 5090"
 NVIDIA_DEV.2B87 = "NVIDIA GeForce RTX 5090 D"
 NVIDIA_DEV.2BB1 = "NVIDIA RTX PRO 6000 Blackwell Workstation Edition"
 NVIDIA_DEV.2BB4 = "NVIDIA RTX PRO 6000 Blackwell Max-Q Workstation Edition"
+NVIDIA_DEV.2BB5 = "NVIDIA Graphics Device"
 ; Blackwell GB203
 NVIDIA_DEV.2C02 = "NVIDIA GeForce RTX 5080"
 NVIDIA_DEV.2C03 = "NVIDIA Graphics Device"
@@ -989,7 +990,7 @@ NVIDIA_DEV.2F58 = "NVIDIA GeForce RTX 5070 Ti Max-Q / Mobile"
 ; Blackwell GB110
 NVIDIA_DEV.31C0 = "NVIDIA GB110"
 ; Blackwell GB112
-;
+; 3200 - 327F ???
 ; Blackwell GB120
 NVIDIA_DEV.3340 = "NVIDIA GB120"
 

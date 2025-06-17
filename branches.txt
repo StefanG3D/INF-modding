@@ -6,7 +6,7 @@ Branch progression:
 <hr><pre>
 Branch progression:
 576.80     r576_76-2
-576.76     NGX
+576.76     r575_00-160
 576.66     r576_41-9
 576.60     r576_41-8
 576.57     r576_41-7 

@@ -733,7 +733,7 @@ NVIDIA_DEV.23B0 = "NVIDIA Graphics Device"
 NVIDIA_DEV.23F0 = "NVIDIA Graphics Device"
 ;
 ; Ampere GA103
-NVIDIA_DEV.2402 = "NVIDIA Graphics Device"
+NVIDIA_DEV.2402 = "NVIDIA Graphics Device" ; https://gpumagick.com/scores/672054
 NVIDIA_DEV.2404 = "NVIDIA Graphics Device"
 NVIDIA_DEV.2414 = "NVIDIA GeForce RTX 3060 Ti"
 NVIDIA_DEV.2420 = "NVIDIA Geforce RTX 3080 Ti Laptop GPU"
@@ -957,9 +957,10 @@ NVIDIA_DEV.29BC = "NVIDIA B100"
 NVIDIA_DEV.29C0 = "NVIDIA Reserved Dev ID B"
 NVIDIA_DEV.29F1 = "NVIDIA Graphics Device"
 ; Blackwell GB10B
-; T264 / GB10
-; Blackwell GB202
+; T254 / GB10
+; T264
 NVIDIA_DEV.2B00 = "NVIDIA TA1090SA [THOR]"
+; Blackwell GB202
 NVIDIA_DEV.2B85 = "NVIDIA GeForce RTX 5090"
 NVIDIA_DEV.2B87 = "NVIDIA GeForce RTX 5090 D"
 NVIDIA_DEV.2BB1 = "NVIDIA RTX PRO 6000 Blackwell Workstation Edition"

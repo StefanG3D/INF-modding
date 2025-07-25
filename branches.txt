@@ -1,11 +1,13 @@
 <hr><pre>
 Branch progression:
 590.26     bugfix_main-19380
+590.22     N1X https://www.gpuscore.top/furmark/show.php?id=1646639
 590.10     bugfix_main-19345
 </pre>
 
 <hr><pre>
 Branch progression:
+577.00     r576_76-8
 576.88     r576_76-5
 576.80     r576_76-2
 576.76     r575_00-160
@@ -27,6 +29,7 @@ Branch progression:
 575.98     r575_92-4
 575.94     test driver
 575.92     Nsight 2025.2.0
+575.89     gpumagick.com/scores/1299773
 575.64.03  r576_76-213
 575.64.01  ?
 575.64.00  r575_00-212
@@ -45,7 +48,9 @@ Branch progression:
 <hr><pre>
 Branch progression:
 573.55     r573_48-4
+573.53     ?
 573.52     VK571_25-16
+573.49     ?
 573.48     ?
 573.43     ?
 573.42     r570_00-483

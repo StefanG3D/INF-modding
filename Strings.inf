@@ -998,7 +998,7 @@ NVIDIA_DEV.2DB8 = "NVIDIA RTX PRO 1000 Blackwell Generation Laptop GPU"
 NVIDIA_DEV.2DB9 = "NVIDIA RTX PRO 500 Blackwell Generation Laptop GPU"
 NVIDIA_DEV.2DD8 = "NVIDIA GeForce RTX 5050 Max-Q / Mobile"
 ; Blackwell GB20B
-NVIDIA_DEV.2E2A = "NVIDIA Graphics Device"
+NVIDIA_DEV.2E2A = "NVIDIA JMJWOA-Generic-GPU" ; N1X
 ; Blackwell GB205
 NVIDIA_DEV.2F04 = "NVIDIA GeForce RTX 5070"
 NVIDIA_DEV.2F18 = "NVIDIA GeForce RTX 5070 Ti Max-Q / Mobile"

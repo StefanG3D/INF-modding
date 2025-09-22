@@ -7,7 +7,8 @@ Branch progression:
 
 <hr><pre>
 Branch progression:
-581.29     r581_07-10 
+581.29     r581_07-10
+581.22     r581_07-6  
 581.19     r581_07-5
 581.18     r581_07-4
 581.15     r581_07-3
@@ -26,6 +27,7 @@ Branch progression:
 
 <hr><pre>
 Branch progression:
+577.05     ?
 577.02     r575_00-189
 577.00     r576_76-8
 576.97     r575_00-182
@@ -71,6 +73,7 @@ Branch progression:
 <hr><pre>
 Branch progression:
 573.73     r570_00-569
+573.62     ?
 573.57     r570_00-512
 573.55     r573_48-4
 573.53     ?
